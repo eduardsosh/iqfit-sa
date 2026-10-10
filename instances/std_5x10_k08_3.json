@@ -1,0 +1,71 @@
+{
+ "name": "std_5x10_k08_3",
+ "rows": 5,
+ "cols": 10,
+ "fixed": [
+  {
+   "piece": "L",
+   "cells": [
+    [
+     3,
+     4
+    ],
+    [
+     4,
+     2
+    ],
+    [
+     4,
+     3
+    ],
+    [
+     4,
+     4
+    ]
+   ]
+  },
+  {
+   "piece": "R",
+   "cells": [
+    [
+     1,
+     7
+    ],
+    [
+     2,
+     7
+    ],
+    [
+     3,
+     7
+    ],
+    [
+     4,
+     7
+    ],
+    [
+     4,
+     8
+    ]
+   ]
+  }
+ ],
+ "free": [
+  "B",
+  "G",
+  "P",
+  "Y",
+  "D",
+  "M",
+  "O",
+  "C"
+ ],
+ "optimum": 0,
+ "reference_solution": [
+  "BBCCOOOOPP",
+  "BCCCCOYRPM",
+  "BBDDDDYRPM",
+  "GGGDLDYRMM",
+  "GGLLLYYRRM"
+ ]
+}

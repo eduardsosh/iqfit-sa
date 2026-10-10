@@ -1,0 +1,26 @@
+{
+ "name": "std_5x10_k10_1",
+ "rows": 5,
+ "cols": 10,
+ "fixed": [],
+ "free": [
+  "B",
+  "L",
+  "G",
+  "P",
+  "Y",
+  "R",
+  "D",
+  "M",
+  "O",
+  "C"
+ ],
+ "optimum": 0,
+ "reference_solution": [
+  "LLBPMMMMRR",
+  "LBBPPPMYDR",
+  "LLBCCCCYDR",
+  "GGGOCOYYDR",
+  "GGOOOOYYDD"
+ ]
+}

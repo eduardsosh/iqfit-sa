@@ -1,0 +1,41 @@
+{
+ "name": "dbl_10x10_k20_1",
+ "rows": 10,
+ "cols": 10,
+ "fixed": [],
+ "free": [
+  "B",
+  "L",
+  "G",
+  "P",
+  "Y",
+  "R",
+  "D",
+  "M",
+  "O",
+  "C",
+  "B",
+  "L",
+  "G",
+  "P",
+  "Y",
+  "R",
+  "D",
+  "M",
+  "O",
+  "C"
+ ],
+ "optimum": 0,
+ "reference_solution": [
+  "CRRRRDOOOO",
+  "CRDDDDMOBB",
+  "CCPPPMMMMB",
+  "CGGLPLYYBB",
+  "GGGLLLYYYY",
+  "MMGGGRRBOO",
+  "MMDGPYRBBO",
+  "LMDPPYRBOO",
+  "LMDPPYRCCO",
+  "LLDDYYCCCC"
+ ]
+}
