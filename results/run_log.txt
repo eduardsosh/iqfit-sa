@@ -1,0 +1,211 @@
+17 instances x 10 runs, 10 workers
+  dbl_10x10_k14_1    seed=8   cost=0 time=14.24s
+  dbl_10x10_k14_2    seed=0   cost=0 time=8.06s
+  dbl_10x10_k14_1    seed=7   cost=1 time=60.10s
+  dbl_10x10_k14_1    seed=9   cost=2 time=60.13s
+  dbl_10x10_k14_1    seed=4   cost=1 time=60.14s
+  dbl_10x10_k14_1    seed=5   cost=1 time=60.14s
+  dbl_10x10_k14_1    seed=2   cost=1 time=60.31s
+  dbl_10x10_k14_1    seed=1   cost=1 time=60.34s
+  dbl_10x10_k14_1    seed=6   cost=1 time=60.37s
+  dbl_10x10_k14_1    seed=3   cost=1 time=60.39s
+  dbl_10x10_k14_1    seed=0   cost=1 time=60.42s
+  dbl_10x10_k14_2    seed=4   cost=0 time=2.64s
+  dbl_10x10_k14_2    seed=1   cost=0 time=40.65s
+  dbl_10x10_k14_2    seed=8   cost=0 time=7.36s
+  dbl_10x10_k14_2    seed=3   cost=0 time=13.44s
+  dbl_10x10_k14_2    seed=2   cost=0 time=26.49s
+  dbl_10x10_k14_2    seed=6   cost=0 time=34.85s
+  dbl_10x10_k14_2    seed=5   cost=1 time=60.18s
+  dbl_10x10_k14_3    seed=0   cost=1 time=60.04s
+  dbl_10x10_k14_2    seed=7   cost=1 time=60.14s
+  dbl_10x10_k14_2    seed=9   cost=1 time=60.38s
+  dbl_10x10_k14_3    seed=1   cost=1 time=60.10s
+  dbl_10x10_k14_3    seed=2   cost=1 time=60.15s
+  dbl_10x10_k14_3    seed=3   cost=1 time=60.10s
+  dbl_10x10_k14_3    seed=4   cost=1 time=60.25s
+  dbl_10x10_k14_3    seed=5   cost=1 time=60.23s
+  dbl_10x10_k14_3    seed=6   cost=1 time=60.19s
+  dbl_10x10_k14_3    seed=8   cost=0 time=41.69s
+  dbl_10x10_k14_3    seed=7   cost=2 time=60.06s
+  dbl_10x10_k14_3    seed=9   cost=1 time=60.40s
+  dbl_10x10_k20_1    seed=0   cost=1 time=60.20s
+  std_5x10_k02_1     seed=0   cost=0 time=0.00s
+  std_5x10_k02_1     seed=1   cost=0 time=0.00s
+  std_5x10_k02_1     seed=2   cost=0 time=0.00s
+  std_5x10_k02_1     seed=3   cost=0 time=0.00s
+  std_5x10_k02_1     seed=4   cost=0 time=0.00s
+  std_5x10_k02_1     seed=5   cost=0 time=0.00s
+  std_5x10_k02_1     seed=6   cost=0 time=0.00s
+  std_5x10_k02_1     seed=7   cost=0 time=0.00s
+  std_5x10_k02_1     seed=8   cost=0 time=0.00s
+  std_5x10_k02_1     seed=9   cost=0 time=0.00s
+  std_5x10_k02_2     seed=0   cost=0 time=0.00s
+  std_5x10_k02_2     seed=1   cost=0 time=0.00s
+  std_5x10_k02_2     seed=2   cost=0 time=0.00s
+  std_5x10_k02_2     seed=3   cost=0 time=0.00s
+  std_5x10_k02_2     seed=4   cost=0 time=0.00s
+  std_5x10_k02_2     seed=5   cost=0 time=0.00s
+  std_5x10_k02_2     seed=6   cost=0 time=0.00s
+  std_5x10_k02_2     seed=7   cost=0 time=0.00s
+  std_5x10_k02_2     seed=8   cost=0 time=0.00s
+  std_5x10_k02_2     seed=9   cost=0 time=0.00s
+  std_5x10_k02_3     seed=0   cost=0 time=0.00s
+  std_5x10_k02_3     seed=1   cost=0 time=0.00s
+  std_5x10_k02_3     seed=2   cost=0 time=0.00s
+  std_5x10_k02_3     seed=3   cost=0 time=0.00s
+  std_5x10_k02_3     seed=4   cost=0 time=0.00s
+  std_5x10_k02_3     seed=5   cost=0 time=0.00s
+  std_5x10_k02_3     seed=6   cost=0 time=0.00s
+  std_5x10_k02_3     seed=7   cost=0 time=0.00s
+  std_5x10_k02_3     seed=8   cost=0 time=0.00s
+  std_5x10_k02_3     seed=9   cost=0 time=0.00s
+  std_5x10_k04_1     seed=0   cost=0 time=0.00s
+  std_5x10_k04_1     seed=1   cost=0 time=0.00s
+  std_5x10_k04_1     seed=2   cost=0 time=0.00s
+  std_5x10_k04_1     seed=3   cost=0 time=0.00s
+  std_5x10_k04_1     seed=4   cost=0 time=0.00s
+  std_5x10_k04_1     seed=5   cost=0 time=0.00s
+  std_5x10_k04_1     seed=6   cost=0 time=0.00s
+  std_5x10_k04_1     seed=7   cost=0 time=0.00s
+  std_5x10_k04_1     seed=8   cost=0 time=0.00s
+  std_5x10_k04_1     seed=9   cost=0 time=0.00s
+  std_5x10_k04_2     seed=0   cost=0 time=0.31s
+  std_5x10_k04_2     seed=1   cost=0 time=0.04s
+  std_5x10_k04_2     seed=2   cost=0 time=0.06s
+  std_5x10_k04_2     seed=3   cost=0 time=0.21s
+  std_5x10_k04_2     seed=4   cost=0 time=0.10s
+  std_5x10_k04_2     seed=5   cost=0 time=0.02s
+  std_5x10_k04_2     seed=6   cost=0 time=0.13s
+  std_5x10_k04_2     seed=7   cost=0 time=0.00s
+  std_5x10_k04_2     seed=8   cost=0 time=0.04s
+  std_5x10_k04_2     seed=9   cost=0 time=0.01s
+  std_5x10_k04_3     seed=0   cost=0 time=0.00s
+  std_5x10_k04_3     seed=1   cost=0 time=0.00s
+  std_5x10_k04_3     seed=2   cost=0 time=0.00s
+  std_5x10_k04_3     seed=3   cost=0 time=0.00s
+  std_5x10_k04_3     seed=4   cost=0 time=0.00s
+  std_5x10_k04_3     seed=5   cost=0 time=0.00s
+  std_5x10_k04_3     seed=6   cost=0 time=0.00s
+  std_5x10_k04_3     seed=7   cost=0 time=0.00s
+  std_5x10_k04_3     seed=8   cost=0 time=0.00s
+  std_5x10_k04_3     seed=9   cost=0 time=0.00s
+  std_5x10_k06_1     seed=0   cost=0 time=0.00s
+  std_5x10_k06_1     seed=1   cost=0 time=0.01s
+  std_5x10_k06_1     seed=2   cost=0 time=0.00s
+  std_5x10_k06_1     seed=3   cost=0 time=0.00s
+  std_5x10_k06_1     seed=4   cost=0 time=0.00s
+  std_5x10_k06_1     seed=5   cost=0 time=0.00s
+  std_5x10_k06_1     seed=6   cost=0 time=0.01s
+  std_5x10_k06_1     seed=7   cost=0 time=0.00s
+  std_5x10_k06_1     seed=8   cost=0 time=0.02s
+  std_5x10_k06_1     seed=9   cost=0 time=0.01s
+  dbl_10x10_k20_1    seed=1   cost=1 time=60.14s
+  dbl_10x10_k20_1    seed=2   cost=1 time=60.04s
+  std_5x10_k06_2     seed=1   cost=0 time=1.63s
+  std_5x10_k06_2     seed=0   cost=0 time=2.49s
+  std_5x10_k06_2     seed=2   cost=0 time=2.86s
+  std_5x10_k06_2     seed=3   cost=0 time=1.79s
+  std_5x10_k06_2     seed=4   cost=0 time=3.23s
+  dbl_10x10_k20_1    seed=3   cost=2 time=60.24s
+  std_5x10_k06_2     seed=6   cost=0 time=1.99s
+  std_5x10_k06_2     seed=5   cost=0 time=3.09s
+  std_5x10_k06_3     seed=0   cost=0 time=0.38s
+  std_5x10_k06_2     seed=9   cost=0 time=1.45s
+  std_5x10_k06_3     seed=1   cost=0 time=0.52s
+  std_5x10_k06_2     seed=7   cost=0 time=2.09s
+  std_5x10_k06_3     seed=4   cost=0 time=0.50s
+  std_5x10_k06_3     seed=2   cost=0 time=0.97s
+  std_5x10_k06_3     seed=3   cost=0 time=0.91s
+  std_5x10_k06_3     seed=6   cost=0 time=0.45s
+  std_5x10_k06_2     seed=8   cost=0 time=3.47s
+  std_5x10_k06_3     seed=7   cost=0 time=0.82s
+  std_5x10_k06_3     seed=8   cost=0 time=0.49s
+  std_5x10_k06_3     seed=5   cost=0 time=1.40s
+  std_5x10_k06_3     seed=9   cost=0 time=1.09s
+  dbl_10x10_k20_1    seed=4   cost=2 time=60.11s
+  std_5x10_k08_1     seed=1   cost=0 time=14.47s
+  dbl_10x10_k20_1    seed=5   cost=1 time=60.06s
+  std_5x10_k08_1     seed=3   cost=0 time=14.48s
+  std_5x10_k08_1     seed=4   cost=0 time=14.39s
+  std_5x10_k08_1     seed=5   cost=0 time=4.06s
+  std_5x10_k08_1     seed=8   cost=0 time=3.55s
+  dbl_10x10_k20_1    seed=6   cost=1 time=60.13s
+  std_5x10_k08_1     seed=2   cost=0 time=28.22s
+  dbl_10x10_k20_1    seed=7   cost=2 time=60.11s
+  std_5x10_k08_1     seed=6   cost=0 time=23.31s
+  std_5x10_k08_1     seed=9   cost=0 time=23.77s
+  dbl_10x10_k20_1    seed=8   cost=1 time=60.02s
+  dbl_10x10_k20_1    seed=9   cost=1 time=60.03s
+  std_5x10_k08_2     seed=7   cost=0 time=5.09s
+  std_5x10_k08_2     seed=4   cost=0 time=16.19s
+  std_5x10_k08_1     seed=0   cost=1 time=60.04s
+  std_5x10_k08_2     seed=2   cost=0 time=33.76s
+  std_5x10_k08_2     seed=5   cost=0 time=25.74s
+  std_5x10_k08_2     seed=0   cost=0 time=51.03s
+  std_5x10_k08_3     seed=0   cost=0 time=12.28s
+  std_5x10_k08_1     seed=7   cost=1 time=60.19s
+  std_5x10_k08_3     seed=4   cost=0 time=3.66s
+  std_5x10_k08_3     seed=2   cost=0 time=11.90s
+  std_5x10_k08_3     seed=5   cost=0 time=6.18s
+  std_5x10_k08_2     seed=1   cost=1 time=60.04s
+  std_5x10_k08_3     seed=9   cost=0 time=1.79s
+  std_5x10_k08_3     seed=3   cost=0 time=14.35s
+  std_5x10_k08_2     seed=9   cost=0 time=32.77s
+  std_5x10_k08_2     seed=3   cost=1 time=60.06s
+  std_5x10_k10_1     seed=2   cost=0 time=4.55s
+  std_5x10_k08_3     seed=7   cost=0 time=13.47s
+  std_5x10_k08_3     seed=8   cost=0 time=14.13s
+  std_5x10_k10_1     seed=0   cost=0 time=12.09s
+  std_5x10_k10_1     seed=4   cost=0 time=7.95s
+  std_5x10_k08_3     seed=1   cost=0 time=41.15s
+  std_5x10_k10_1     seed=8   cost=0 time=7.74s
+  std_5x10_k08_2     seed=8   cost=0 time=53.77s
+  std_5x10_k08_2     seed=6   cost=1 time=60.00s
+  std_5x10_k10_1     seed=7   cost=0 time=11.67s
+  std_5x10_k10_1     seed=5   cost=0 time=31.46s
+  std_5x10_k10_1     seed=1   cost=0 time=44.05s
+  std_5x10_k08_3     seed=6   cost=1 time=60.00s
+  std_5x10_k10_1     seed=9   cost=0 time=39.17s
+  std_5x10_k10_1     seed=3   cost=1 time=60.14s
+  std_5x10_k10_1     seed=6   cost=1 time=60.10s
+
+# Results
+
+SA time limit per run: 60 s, runs per instance: 10, parallel workers: 10.
+Cost = number of empty cells + number of extra coverings; optimum = 0.
+
+## Per instance group
+
+| group | instances | runs | success_rate | best_cost_mean | time_solved_mean_s | time_mean_s |
+|---|---|---|---|---|---|---|
+| std_5x10_k10 | 1 | 10 | 0.8 | 0.2 | 19.8363 | 27.8931 |
+| std_5x10_k08 | 3 | 30 | 0.8 | 0.2 | 19.3134 | 27.4622 |
+| std_5x10_k06 | 3 | 30 | 1.0 | 0 | 1.0559 | 1.0559 |
+| std_5x10_k04 | 3 | 30 | 1.0 | 0 | 0.0309 | 0.0309 |
+| std_5x10_k02 | 3 | 30 | 1.0 | 0 | 0.0001 | 0.0001 |
+| dbl_10x10_k20 | 1 | 10 | 0.0 | 1.3 |  | 60.1086 |
+| dbl_10x10_k14 | 3 | 30 | 0.3 | 0.77 | 21.0481 | 48.4659 |
+
+## Per instance
+
+| instance | board | free_pieces | free_cells | search_space | runs | solved | success_rate | best_cost_min | best_cost_mean | best_cost_max | optimum | time_mean_s | time_solved_mean_s | time_solved_median_s | iters_solved_mean | exact_time_s |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| dbl_10x10_k14_1 | 10x10 | 14 | 72 | 3.07e+34 | 10 | 1 | 0.1 | 0 | 1 | 2 | 0 | 55.6566 | 14.2393 | 14.2393 | 1308184 | 5.664 |
+| dbl_10x10_k14_2 | 10x10 | 14 | 70 | 4.86e+31 | 10 | 7 | 0.7 | 0 | 0.3 | 1 | 0 | 31.4205 | 19.0721 | 13.444 | 1302968 | 0.215 |
+| dbl_10x10_k14_3 | 10x10 | 14 | 69 | 1.36e+34 | 10 | 1 | 0.1 | 0 | 1 | 2 | 0 | 58.3205 | 41.6884 | 41.6884 | 2469499 | 1.001 |
+| dbl_10x10_k20_1 | 10x10 | 20 | 100 | 3.25e+54 | 10 | 0 | 0.0 | 1 | 1.3 | 2 | 0 | 60.1086 |  |  |  | 1.103 |
+| std_5x10_k02_1 | 5x10 | 2 | 10 | 4.00e+00 | 10 | 10 | 1.0 | 0 | 0 | 0 | 0 | 0.0001 | 0.0001 | 0.0001 | 6 | 0.0 |
+| std_5x10_k02_2 | 5x10 | 2 | 9 | 4.00e+00 | 10 | 10 | 1.0 | 0 | 0 | 0 | 0 | 0.0001 | 0.0001 | 0.0001 | 11 | 0.0 |
+| std_5x10_k02_3 | 5x10 | 2 | 11 | 2.00e+00 | 10 | 10 | 1.0 | 0 | 0 | 0 | 0 | 0.0 | 0.0 | 0.0 | 2 | 0.0 |
+| std_5x10_k04_1 | 5x10 | 4 | 21 | 1.80e+02 | 10 | 10 | 1.0 | 0 | 0 | 0 | 0 | 0.0005 | 0.0005 | 0.0005 | 32 | 0.0 |
+| std_5x10_k04_2 | 5x10 | 4 | 20 | 9.36e+04 | 10 | 10 | 1.0 | 0 | 0 | 0 | 0 | 0.0904 | 0.0904 | 0.0482 | 5812 | 0.002 |
+| std_5x10_k04_3 | 5x10 | 4 | 21 | 1.08e+03 | 10 | 10 | 1.0 | 0 | 0 | 0 | 0 | 0.0017 | 0.0017 | 0.0012 | 133 | 0.0 |
+| std_5x10_k06_1 | 5x10 | 6 | 29 | 6.65e+05 | 10 | 10 | 1.0 | 0 | 0 | 0 | 0 | 0.0056 | 0.0056 | 0.0042 | 409 | 0.0 |
+| std_5x10_k06_2 | 5x10 | 6 | 32 | 4.52e+09 | 10 | 10 | 1.0 | 0 | 0 | 0 | 0 | 2.4083 | 2.4083 | 2.2891 | 137585 | 0.005 |
+| std_5x10_k06_3 | 5x10 | 6 | 31 | 2.27e+09 | 10 | 10 | 1.0 | 0 | 0 | 0 | 0 | 0.7536 | 0.7536 | 0.6699 | 44488 | 0.002 |
+| std_5x10_k08_1 | 5x10 | 8 | 41 | 6.38e+16 | 10 | 8 | 0.8 | 0 | 0.2 | 1 | 0 | 24.6478 | 15.7808 | 14.4711 | 806198 | 0.01 |
+| std_5x10_k08_2 | 5x10 | 8 | 40 | 3.47e+16 | 10 | 7 | 0.7 | 0 | 0.3 | 1 | 0 | 39.8457 | 31.1927 | 32.7673 | 1610542 | 0.068 |
+| std_5x10_k08_3 | 5x10 | 8 | 41 | 4.73e+15 | 10 | 9 | 0.9 | 0 | 0.1 | 1 | 0 | 17.893 | 13.2141 | 12.2798 | 702970 | 0.024 |
+| std_5x10_k10_1 | 5x10 | 10 | 50 | 1.20e+23 | 10 | 8 | 0.8 | 0 | 0.2 | 1 | 0 | 27.8931 | 19.8363 | 11.8843 | 1306023 | 0.018 |
+

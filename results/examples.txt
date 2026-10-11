@@ -1,0 +1,278 @@
+=== dbl_10x10_k14_1 (seed 8, cost 0, 14.24s)
+start:
+C C C C . B B B R R
+. C . . . . B G G R
+. . . . . . . G G R
+. . . . . . . . G R
+. . . . . . . . . .
+. . . . . . . . . .
+. . C . . . . . . .
+C C C C . . . . . .
+P . . . . . . . . .
+P P P . . . . . . .
+SA result:
+C C C C b B B B R R
+l C l b b b B G G R
+l l l y y y y G G R
+r d d d d m y m G R
+r d d d d m m m m m
+r d d d d m m g g g
+r r C l l m m g g y
+C C C C l o o o o y
+P p p p l o o o y y
+P P P p o o o o y y
+
+=== dbl_10x10_k14_2 (seed 4, cost 0, 2.64s)
+start:
+. . . . G G . . . .
+. D . D G G . . . .
+. D D D D G . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+O O O O . . . . . .
+L O . M M . . . . .
+L . . M M . . . . B
+L L . . M . . . B B
+. . . . M . . . . B
+SA result:
+m m m m G G c c c c
+r D m D G G r c c r
+r D D D D G r r r r
+r c c c c o o o o l
+r r c c y y o l l l
+O O O O y y y y p p
+L O g M M y y b p p
+L g g M M y b b p B
+L L g d M y p b B B
+d d d d M y p p p B
+
+=== dbl_10x10_k14_3 (seed 8, cost 0, 41.69s)
+start:
+D D D D P P G G G B
+. D . D P P P G B B
+. . . . . . . . . B
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . C . . . . .
+. . . C C . . . . .
+Y Y . C C . . . . .
+Y Y Y Y C . . . . .
+SA result:
+D D D D P P G G G B
+b D o D P P P G B B
+b b o y y y y p p B
+b o o o c c y p p p
+o o o c c c c l l d
+l o m m m m m l d d
+l o m m C m g l l d
+l l m C C g g g d d
+Y Y m C C r r r r r
+Y Y Y Y C r r r r r
+
+=== dbl_10x10_k20_1 (seed 8, cost 1, 60.02s)
+start:
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+SA result:
+c d d l l m m m m b
+c c d l l l p m b b
+c c d l l l p p p b
+c o d o g l r r r r
+o o o o g g # o o o
+b p p p g g c o r r
+b b p p d c c g g r
+b d d d d c c g g r
+y y y y y y c m g r
+y y y y y y m m m m
+
+=== std_5x10_k02_1 (seed 1, cost 0, 0.00s)
+start:
+G D D D D Y Y Y Y M
+G G D B D . P P Y M
+G G B B . . P P M M
+L L L B . . P C C M
+L . . . . . C C C C
+SA result:
+G D D D D Y Y Y Y M
+G G D B D o P P Y M
+G G B B o o P P M M
+L L L B r o P C C M
+L r r r r o C C C C
+
+=== std_5x10_k02_2 (seed 2, cost 0, 0.00s)
+start:
+G G M M M M O O O O
+G G M M B Y C O D D
+. G . B B Y C C . D
+. . . R B Y C C . D
+R R R R Y Y C . . D
+SA result:
+G G M M M M O O O O
+G G M M B Y C O D D
+l G l B B Y C C p D
+l l l R B Y C C p D
+R R R R Y Y C p p D
+
+=== std_5x10_k02_3 (seed 0, cost 0, 0.00s)
+start:
+R R R R M M . . . .
+R G M M M M . B . Y
+G G G D D D D B B Y
+L L L . D P D B Y Y
+L . . . . P P P Y Y
+SA result:
+R R R R M M o o o o
+R G M M M M o B o Y
+G G G D D D D B B Y
+L L L c D P D B Y Y
+L c c c c P P P Y Y
+
+=== std_5x10_k04_1 (seed 4, cost 0, 0.00s)
+start:
+Y Y Y Y . . . . L .
+. P P Y R . L L L .
+. P P P R B B B . .
+. . G G R B . B . .
+. G G G R R . . . .
+SA result:
+Y Y Y Y o o o o L m
+c P P Y R o L L L m
+c P P P R B B B m m
+c c G G R B d B d m
+c G G G R R d d d d
+
+=== std_5x10_k04_2 (seed 7, cost 0, 0.00s)
+start:
+. Y Y Y Y R R R R O
+. . . Y Y R G G O O
+. . . . . . G G L O
+. . . D . . . G L O
+D D D D . . . . L L
+SA result:
+m Y Y Y Y R R R R O
+m m p Y Y R G G O O
+m p p b b b G G L O
+m p p D b c c G L O
+D D D D c c c c L L
+
+=== std_5x10_k04_3 (seed 6, cost 0, 0.00s)
+start:
+O O O O M M M M . .
+O B O . M M . . R .
+B B . . G G G . R .
+P B . . . G . . R .
+P P P . . . . . R R
+SA result:
+O O O O M M M M d d
+O B O c M M l l R d
+B B c c G G G l R d
+P B c c y G l l R d
+P P P c y y y y R R
+
+=== std_5x10_k06_1 (seed 5, cost 0, 0.00s)
+start:
+. . . Y Y Y Y . . .
+. . . . . . Y . D D
+P P P . O O O O . D
+. P P . O . O . . D
+. . . . . . . . . D
+SA result:
+g g g Y Y Y Y l l l
+g g c c c c Y l D D
+P P P c O O O O b D
+r P P r O m O b b D
+r r r r m m m m b D
+
+=== std_5x10_k06_2 (seed 9, cost 0, 1.45s)
+start:
+. . G B B B M M M M
+. G G G B . . . M .
+. . L L L . . . . .
+. . L . L . . . . .
+. . . . . . . . . .
+SA result:
+d d G B B B M M M M
+d G G G B r r c M y
+d d L L L p r c c y
+d o L o L p r c c y
+o o o o p p r c y y
+
+=== std_5x10_k06_3 (seed 0, cost 0, 0.38s)
+start:
+O O O O B M . . . .
+. O . B B M M P . .
+. . . . B M P P . .
+. . . . . M P P . .
+. . . . . . . . . .
+SA result:
+O O O O B M y y y y
+d O c B B M M P y y
+d c c g B M P P l l
+d c c g g M P P r l
+d d c g g r r r r l
+
+=== std_5x10_k08_1 (seed 8, cost 0, 3.55s)
+start:
+. . . . . . . . D D
+. . . . . . . . . D
+P . . . . . . . . D
+P P P . . . . . . D
+. . . . . . . . . .
+SA result:
+m m m m l l l b D D
+m m c c l y b b b D
+P c c c c y g g g D
+P P P r y y g g o D
+r r r r y y o o o o
+
+=== std_5x10_k08_2 (seed 7, cost 0, 5.09s)
+start:
+R R R R . . . . . .
+R . . R . . . . . .
+. . . . . . . . . .
+. . . . . . . . G .
+. . . . . . . G G G
+SA result:
+R R R R y y m p p p
+R c c R y d m m p p
+c c c c y d m b b b
+l l l o y d m b G b
+l o o o o d d G G G
+
+=== std_5x10_k08_3 (seed 9, cost 0, 1.79s)
+start:
+. . . . . . . . . .
+. . . . . . . R . .
+. . . . . . . R . .
+. . . . L . . R . .
+. . L L L . . R R .
+SA result:
+o o o o g g m m m m
+d o p g g g y R m c
+d p p b b b y R c c
+d p p b L b y R c c
+d d L L L y y R R c
+
+=== std_5x10_k10_1 (seed 2, cost 0, 4.55s)
+start:
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+SA result:
+d d l l c c c c y y
+r d m l g c c b y y
+r d m l g g b b y p
+r d m m g g o b y p
+r r m m o o o o p p
+
